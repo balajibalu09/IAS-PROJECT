@@ -1,1 +1,1 @@
-# IAS-PROJECT
+# iit-project
